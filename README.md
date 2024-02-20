@@ -42,7 +42,6 @@
   - Xếp hạng độ cao trong quốc gia đã chọn.
   - Xếp hạng giá cả trong quốc gia đã chọn.
   - Xếp hạng độ dốc trong quốc gia đã chọn.
-  - Xếp hạng pháo trong quốc gia đã chọn (nếu áp dụng).
   - Khám phá việc sử dụng các thành phần tương tác để cập nhật thẻ báo cáo dựa trên lựa chọn của người dùng.
   - Trình bày các ưu đãi hoặc điểm nổi bật độc đáo của khu nghỉ dưỡng có thể nâng cao sức hấp dẫn của nó.
 
