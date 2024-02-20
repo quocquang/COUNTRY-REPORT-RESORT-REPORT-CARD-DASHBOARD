@@ -7,7 +7,7 @@
 
 - Tab 1: Bản đồ điểm nóng trượt tuyết
 
-  Bản đồ nâng cao:
+  - Bản đồ nâng cao:
   Hình ảnh phân tán các khu nghỉ dưỡng trượt tuyết trên bản đồ, sử dụng "Tổng diện tích dốc" làm thước đo mật độ.
   Các điều khiển bộ lọc tương tác được đặt trong thanh bên chuyên dụng bên trái.
   Thiết kế và bố cục trực quan được cải thiện để rõ ràng và thẩm mỹ.
@@ -25,7 +25,7 @@
   Xem xét thêm chức năng tìm kiếm để tìm các khu nghỉ dưỡng cụ thể theo tên.
 - Tab 2: Báo cáo quốc gia & Thẻ báo cáo khu nghỉ dưỡng
 
-  Khám phá chỉ số quốc gia:
+  - Khám phá chỉ số quốc gia:
   Thanh bên động:
   Bắt đầu với việc chọn châu lục bằng menu thả xuống.
   Menu thả xuống thứ hai hiển thị các quốc gia trong châu lục đã chọn, cập nhật động.
