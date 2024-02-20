@@ -8,12 +8,12 @@
 - Tab 1: Bản đồ điểm nóng trượt tuyết
 
   - Bản đồ nâng cao:
-  Hình ảnh phân tán các khu nghỉ dưỡng trượt tuyết trên bản đồ, sử dụng "Tổng diện tích dốc" làm thước đo mật độ.
-  Các điều khiển bộ lọc tương tác được đặt trong thanh bên chuyên dụng bên trái.
-  Thiết kế và bố cục trực quan được cải thiện để rõ ràng và thẩm mỹ.
-  Xem xét kết hợp khả năng thu phóng và di chuyển để khám phá bản đồ tốt hơn.
-  Bộ lọc tương tác:
-  Thanh trượt giá: Đặt giới hạn giá tối đa để lọc khu nghỉ dưỡng (phạm vi liên tục).
+  - Hình ảnh phân tán các khu nghỉ dưỡng trượt tuyết trên bản đồ, sử dụng "Tổng diện tích dốc" làm thước đo mật độ.
+  - Các điều khiển bộ lọc tương tác được đặt trong thanh bên chuyên dụng bên trái.
+  - Thiết kế và bố cục trực quan được cải thiện để rõ ràng và thẩm mỹ.
+  - Xem xét kết hợp khả năng thu phóng và di chuyển để khám phá bản đồ tốt hơn.
+  - Bộ lọc tương tác:
+  - Thanh trượt giá: Đặt giới hạn giá tối đa để lọc khu nghỉ dưỡng (phạm vi liên tục).
   Hộp kiểm: Lọc dựa trên các tính năng cụ thể:
   Khả năng trượt tuyết vào mùa hè.
   Khả năng trượt tuyết vào ban đêm.
