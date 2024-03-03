@@ -6,6 +6,7 @@
 * Dashboard
 
 - Tab 1: Bản đồ điểm nóng trượt tuyết
+  
 ![image](https://github.com/quocquang/Marketing-Strategy-Analysis/assets/87820013/fe1cd357-9714-456c-8f29-d111bb179087)
 
   - Bản đồ nâng cao:
