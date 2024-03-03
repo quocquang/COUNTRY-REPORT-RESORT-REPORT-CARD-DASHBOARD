@@ -6,6 +6,7 @@
 * Dashboard
 
 - Tab 1: Bản đồ điểm nóng trượt tuyết
+![image](https://github.com/quocquang/Marketing-Strategy-Analysis/assets/87820013/fe1cd357-9714-456c-8f29-d111bb179087)
 
   - Bản đồ nâng cao:
   - Hình ảnh phân tán các khu nghỉ dưỡng trượt tuyết trên bản đồ, sử dụng "Tổng diện tích dốc" làm thước đo mật độ.
@@ -24,6 +25,9 @@
   - Hiển thị nhãn chú thích hoặc cửa sổ bật lên đầy đủ thông tin trên các điểm đánh dấu bản đồ.
   - Xem xét thêm chức năng tìm kiếm để tìm các khu nghỉ dưỡng cụ thể theo tên.
 - Tab 2: Báo cáo quốc gia & Thẻ báo cáo khu nghỉ dưỡng
+
+![image](https://github.com/quocquang/COUNTRY-REPORT-RESORT-REPORT-CARD-DASHBOARD/assets/87820013/b23287a0-d23f-4290-82fe-260afcbb5851)
+
 
   - Khám phá chỉ số quốc gia:
   - Thanh bên động:
